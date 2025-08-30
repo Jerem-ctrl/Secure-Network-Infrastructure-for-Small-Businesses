@@ -1,5 +1,9 @@
 # Secure Network Infrastructure for Small Businesses  
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Cisco](https://img.shields.io/badge/Tools-Cisco%20Packet%20Tracer-blue)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+
 ## 🇫🇷 Description (FR)
 
 Projet réalisé dans le cadre du BUT Réseaux & Télécom (parcours Cybersécurité).  
