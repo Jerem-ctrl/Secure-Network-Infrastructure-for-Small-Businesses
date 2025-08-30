@@ -72,4 +72,4 @@ The goal was to design and secure the IT infrastructure of a fictitious small bu
 
 📸 *Example topology diagram:*  
 
-![Topology](topology/topology.png)
+![Topology](topology/topology.jpeg)
