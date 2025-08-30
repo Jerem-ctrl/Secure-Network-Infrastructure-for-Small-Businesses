@@ -1,4 +1,4 @@
-# 🔐 Secure Network Infrastructure for Small Businesses  
+# Secure Network Infrastructure for Small Businesses  
 
 ## 🇫🇷 Description (FR)
 
